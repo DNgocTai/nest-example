@@ -1,6 +1,9 @@
 {
   "name": "nest-example",
   "version": "0.0.1",
+  "engines": {
+    "node": "21.2.0"
+  },
   "description": "",
   "author": "",
   "private": true,
